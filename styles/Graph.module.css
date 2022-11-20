@@ -1,0 +1,15 @@
+.main {
+    max-height: 60vh;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.graphContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 50vw;
+}
